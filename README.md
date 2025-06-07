@@ -1,4 +1,4 @@
-# Libft - 42's First Project of the Common Core
+# Libft *- 42's First Project of the Common Core*
 
 ## 📚 Project Overview
 
